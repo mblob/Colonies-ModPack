@@ -1,5 +1,5 @@
 0.3
-CodeChickenCore 1.0.2.9
+CodeChickenCore 1.0.3.26
 
 0.2
 NEI 1.0.3.56
