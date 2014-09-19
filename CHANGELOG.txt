@@ -1,5 +1,7 @@
+0.3
+CodeChickenCore 1.0.2.9
+
 0.2
-Code Chicken Lib 1.1.1.104
 NEI 1.0.3.56
 
 0.1
