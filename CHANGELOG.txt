@@ -1,3 +1,8 @@
+0.7
+immibis-Core-59.0.3
+immibis-microblocs-59.0.3
+*new* dimensional-anchor-59.0.2
+
 0.6
 BuildcraftAdditions 1.6.4
 0.5
