@@ -1,3 +1,7 @@
+0.11
+*remove* FastCraft-1.9
+			- Incompatibilité avec Cauldron
+
 0.10
 *new* FasctCraft-1.9 
 http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820
