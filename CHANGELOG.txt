@@ -1,3 +1,17 @@
+0.13
+*Update* Buildcraft -> 6.0.18
+	Remove landmark's levitation. It's broken physics. bug-minor
+	#1982 opened on 13 Aug by Prototik BuildCraft 6.0.18
+	Add check for no null IIcons on facade registration bug-major
+	#1979 opened on 12 Aug by tterrag1098 BuildCraft 6.0.18
+	Fix builder/filler not rendering if player is too far away bug-minor
+	#1969 opened on 3 Aug by ganymedes01 BuildCraft 6.0.18
+	Update en_US.lang bug-minor
+	#1967 opened on 3 Aug by 61352151511 BuildCraft 6.0.18
+	Update en_US.lang (Grammar) bug-minor
+	#1961 opened on 31 Jul by 61352151511 BuildCraft 6.0.18
+
+
 0.12
 *Update* Forestry -> 3.1.1.4
     Remove minimum input energy requirement for machines (commit: 5ce3b61f03d0142c87303eeae2c11e0668830509) (detail / githubweb)
