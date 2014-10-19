@@ -1,3 +1,13 @@
+0.12
+*Update* Forestry -> 3.1.1.4
+    Remove minimum input energy requirement for machines (commit: 5ce3b61f03d0142c87303eeae2c11e0668830509) (detail / githubweb)
+    Fix #262 crash from squeezer (commit: 9a2dd32293dc321582a775df48dd2b5e2cba0872) (detail / githubweb)
+    Fix #268 saplings not being picked up by large farms (commit: 9a46525972571bd36ea1b3e89cd7c1d7efd456cb) (detail / githubweb)
+    Add some sanity checks to the Sapling1 pickBlock() function. (commit: 12011b6bb150f2517fbbbbf9d4008e3b2ed71565) (detail / githubweb)
+    Fix #272. Allow every kind of log to be smelted into charcoal (commit: 99d3572e0fc39f5a35a53b53c9db4a48248620dc) (detail / githubweb)
+    Bump version (commit: 547719b6dfd61561355e30d2a0648b2fd70ce079) (detail / githubweb)
+    Update Lang submodule (commit: 5a9d2fd14d8ca44bfb1177f9d5f697c9fd98f629) (detail / githubweb)
+
 0.11
 *remove* FastCraft-1.9
 			- Incompatibilité avec Cauldron
