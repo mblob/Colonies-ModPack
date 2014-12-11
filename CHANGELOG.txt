@@ -1,3 +1,8 @@
+0.15
+*update Major* Buildcraft -> 6.2.2
+*update* Forestry -> DevBuild 3.1.1.323
+*remove* -> Buildcraft Additions
+				Incompatibilité avec buildcraft 6.2
 0.14
 *update* BuildCraft -> 6.1.2 Beta ( abandon api MJ pour RF )
 
