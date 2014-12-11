@@ -1,5 +1,11 @@
+﻿0.16
+*update* Railcraft -> 9.4.0.0
+*update* Immibis -- 	Core -> 59.0.5
+			microblocks -> 59.0.4
+			Redlogic -> 59.1.2
+
 0.15
-*update Major* Buildcraft -> 6.2.2
+*update Major* Buildcraft -> 6.2.4
 *update* Forestry -> DevBuild 3.1.1.323
 *remove* -> Buildcraft Additions
 				Incompatibilité avec buildcraft 6.2
