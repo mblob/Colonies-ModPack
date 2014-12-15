@@ -1,4 +1,11 @@
-﻿0.18
+﻿0.19
+*new* EnderIo-2.2.2.285
+Blacklist EnderIo
+# 640 Dimensional Transceiver
+# 648 Farm Station        - 649 Zombie Generator        - 657 Stirling Generator    - 659 Wireless Charger  - 667 Combustion Generator 
+# 682 Powered Spawner     - 683 Killer Joe              - 686 Soul Binder           - 688 Ender IO
+# 5553 Staff of travelling
+0.18
 *update* BuildCraft 6.2.6
 0.17a
 *update* CodeChickenCore -> 1.0.4.29
