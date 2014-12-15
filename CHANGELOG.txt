@@ -1,4 +1,6 @@
-﻿0.17
+﻿0.17a
+*update* CodeChickenCore -> 1.0.4.29
+0.17
 *update* applied energistics -> rv1-stable10
 *remove* Eureka
 *new* ForgeMultipart-1.1.0314
