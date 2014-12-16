@@ -1,4 +1,7 @@
-﻿0.31
+﻿0.32
+*new* RandomThings-2.2.2
+
+0.31
 *new* OpenComputers-1.4.2.16
 *new* ProjectRed-base-4.5.8.59
 *new* ProjectRed-integration-4.5.8.59
