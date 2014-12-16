@@ -5,12 +5,13 @@ Ce pack contient
 
 * Applied Energistics
 * Archimedes Ships
+* BibilioCraft
 * Buidcraft
-* Buildcraft Additions
 * CodeChickenCore
 * CrafGuide
 * Dimensional Anchor
-* Eureka
+* EnderIO
+* ForgeMultipart
 * Forestry
 * immibis-Core
 * immibis-microblocs
@@ -18,7 +19,9 @@ Ce pack contient
 * NEI Addons
 * NEI Plugins
 * NEI
+* OpenComputers
 * Optifine
+* ProjectRed
 * RailCraft
 * RedLogic
 * ReiMinimap
