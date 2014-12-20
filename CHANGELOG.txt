@@ -1,4 +1,17 @@
-﻿0.34
+﻿0.34.1
+*update* EnderIo-2.2.5.311
+	- Fixed - Problème de transparence des facades.
+	Ender-Io Changelog
+	Changes
+	- Killer joe can now have its sword extracted
+	- Killer joe will now update its render properly when a sword is added/removed
+
+	Bugs
+	- Update CoFHAPIProps.java version to prevent other RF API versions loading instead of EnderIO's
+	- Fix right clicking redstone color buttons not making the clicky noise
+	- Fix farm crashing when using the IO config
+
+0.34
 *new* ProjectRed-Lightning-4.5.8.59
 
 0.33
