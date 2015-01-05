@@ -1,4 +1,32 @@
-﻿0.34.1
+﻿0.41
+*new*		- TinkerConstruct-1.7.1c
+		Latest Available for our cauldron version 
+
+*update* 	- Enderio-2.2.6-317
+		Change log: https://github.com/CrazyPants/EnderIO/blob/master/ReleaseNotes.txt
+
+*update* 	- BiblioCraft-1.9.2
+		Change log: http://www.bibliocraftmod.com/?page_id=46
+
+*update*	- ForgeMultipart-1.1.1.320
+
+*update*	- Forestry-3.3.0.6
+		Change log: http://ic2api.player.to:8080/job/Forestry/changes
+
+*update*	- LycanitesMob-1.10.8.1
+		New World Events Added: Eruption, Winters Grasp, Blade Flurry and Black Plague!
+		Improvement: Leaves on trees will now also spawn Ents!
+		Bug Fix: Mob Event graphics should now always render correctly, other changes to the GL blending were being made by other rending such as enchanted items causing the graphics to display incorrectly.
+		Bug Fix: Melee mobs are no longer able to attack when falling over dead!
+		Bug Fix: The Darkness (Grue) Spawn Type should no longer trigger if the player's feet are inside a solid block.
+		Bug Fix: Beholder Minions should now follow their masters correctly! 
+
+*update*	- NotEnoughItems-1.0.4.83
+
+*update*	- Optifine-HD_U_B4
+
+-----------------------------------------------------------------------------------------	
+0.34.1
 *update* EnderIo-2.2.5.311
 	- Fixed - Problème de transparence des facades.
 	Ender-Io Changelog
